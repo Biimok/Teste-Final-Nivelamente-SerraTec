@@ -108,6 +108,14 @@ var pessoa = {
 }
 
 // camelCase, PascalCase, kibab-case, snake_case
+// camelCase = Normalmente utilizado para nomear variaveis, funcoes, objetos e arrays, a primeira palavra a primeira letra em minuscula e as proximas palavras, as primeiras letras em maiuscula.
+// ex: nomeCompletoDoAluno
+// PascalCase = Normalmente utilizado para nomear nomes publicos, a primeira letra da primeira palavra em maiuscula e as outras primeiras letras das outras palavras tambem em maiuscula. (Eu realmente nao entendi a funcao dessa forma de escrita)
+// ex: HtmlTag
+// kibab-case = Normalmente ultilizado para nomear documentos com nomes compostos.
+// ex: exercicio-final
+// snake_case = Normalmente ultilizado para nomear nomes compostos de variaveis.
+// ex: nome_completo_do_aluno
 
 // Caminho absoluto é aquele caminho exato para um arquivo. 
 // Ex: C:\Users\JeanL\Desktop\SERRA TEC\Aulas\Repositórios\projeto-final-nivelamento\projeto-final/exercicio.html
